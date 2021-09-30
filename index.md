@@ -23,19 +23,27 @@ These routes are:
 
 ### Fate/stay night (DEEN)
 
+An adaptation of the first route of the game, **Fate**. Produced by the animation studio DEEN and began airing in 2006. Contains a total of 24 episodes with each episode having a runtime of about 20 minutes.
 
+### Fate/stay night: Unlimited Blade Works (DEEN)
 
-### Fate/stay night Unlimited Blade Works (DEEN)
+An adaptation of the second route of the game, **Unlimited Blade Works**. Produced by studio DEEN and aired in 2010. This adaptation is an animated film, with a total runtime of 105 minutes. 
 
+### Fate/stay night: Unlimited Blade Works (ufotable)
 
-
-### Fate/stay night Unlimited Blade Works (ufotable)
-
-
+Another adaptation of the second route, **Unlimited Blade Works**. Produced by animation studio ufotable and began airing in 2014. Contains a total of 26 episodes with each episode having a runtime of about 20 minutes. 
 
 ### Fate/stay night Heaven's Feel (ufotable)
 
+An adaptation of the third route of the game, **Heaven's Feel**. An animated film trilogy produced by studio ufotable. 
 
+- **Fate/stay night: Heaven's Feel I. presage flower** - 
+- **Fate/stay night: Heaven's Feel II. lost butterfly** - 
+- **Fate/stay night: Heaven's Feel III. spring song** - 
+
+### Notable Mention: Fate/Zero
+
+An adaptation of the light novel series of the same name. Produced by ufotable and
 
 # people die when they are killed
 
