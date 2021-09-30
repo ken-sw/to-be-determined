@@ -4,6 +4,8 @@ I don't really have any good ideas on what to do with this site at the moment. T
 
 *Note: This will be covering mainly the entries that I know, a majority of which are the anime adaptations of the originals. This is not an extensive guide on everything from the series, not only because I don't know it all, but because it would also take far too long.*
 
+*Secondary Note: For now this will just be focusing on adaptations of Fate/stay night since I don't have time to do the rest for now.*
+
 ## Fate/stay night
 
 *Fate/stay night* is the first entry in the series, a Japanese visual novel released on January 30th, 2004 by Type-Moon. 
@@ -19,8 +21,15 @@ These routes are:
 - **Unlimited Blade Works**
 - **Heaven's Feel**
 
+### Fate/stay night (DEEN)
 
+### Fate/stay night Unlimited Blade Works (DEEN)
 
+### Fate/stay night Unlimited Blade Works (ufotable)
+
+### Fate/stay night Heaven's Feel (ufotable)
+
+# people die when they are killed
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
