@@ -12,6 +12,8 @@ I don't really have any good ideas on what to do with this site at the moment. T
 
 *Note: A **visual novel** is a type of interactive novel originating from Japan, played on PCs. It allows the players some choices within the story that can lead to different endings, although a majority of the experience is just text, whether it's narration, dialogue, inner monologues, or something else.*
 
+![](/main/foot stood dusk.png)
+
 The story follows Shirou Emiya, a Japanese high school student that falls into the world of magecraft through the *Holy Grail War*, a battle between 7 mages over the omnipotent wish-granting device, the Holy Grail. Each mage is given a familiar, called a Heroic Spirit, that is a famous figure from the past or even the future, summoned to the present to fight.
 
 The most important thing you need to know when it comes to the basic structure of *Fate/stay night* is that the game can be split into 3 separate routes that the player can take, leading to different events and endings within the story.
@@ -24,6 +26,8 @@ These routes are:
 ### Fate/stay night (DEEN)
 
 An adaptation of the first route of the game, **Fate**. Produced by the animation studio DEEN and began airing in 2006. Contains a total of 24 episodes with each episode having a runtime of about 20 minutes.
+
+![](/main/food cry might)
 
 ### Fate/stay night: Unlimited Blade Works (DEEN)
 
